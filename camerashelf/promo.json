@@ -1,6 +1,9 @@
 {
   "promo": true,
-  "message": "Spring Promo! Unlock Pro permanently for 25% off.",
   "percentage": 25,
-  "expiry-date": 2026-04-14
+  "expiry-date": "2026-04-14",
+  "translations": {
+    "en": "Unlock all features forever for 25% off with our spring sale!",
+    "ja": "ホリデーセールで全機能を永久にロック解除しましょう！"
+  }
 }

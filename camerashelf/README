@@ -1,0 +1,38 @@
+# Sample JSONs for Config Files
+
+## Promo JSON
+
+```
+{
+  "promo": true,
+  "percentage": 50,
+  "expiry-date": "2025-12-31T23:59:59Z",
+  "translations": {
+    "en": "Unlock all features forever with our holiday sale!",
+    "ja": "ホリデーセールで全機能を永久にロック解除しましょう！"
+  }
+}
+```
+
+### Announcements JSON
+
+```
+[
+  {
+    "id": "sync-notice-001",
+    "isActive": true,
+    "type": "warning",
+    "url": "https://pandesalbytes.ca/support",
+    "translations": {
+      "en": {
+        "title": "CloudKit Sync Notice",
+        "message": "We are currently investigating an issue where some iOS 18 users experience delayed syncing. A fix is in progress."
+      },
+      "ja": {
+        "title": "CloudKit 同期に関するお知らせ",
+        "message": "一部のiOS 18ユーザーで同期が遅れる問題を現在調査中です。修正作業を進めています。"
+      }
+    }
+  }
+]
+```

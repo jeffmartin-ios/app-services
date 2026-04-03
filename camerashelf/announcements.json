@@ -1,0 +1,34 @@
+[
+  {
+    "id": "update-1-70",
+    "isActive": true,
+    "type": "success",
+    "url": null,
+    "translations": {
+      "en": {
+        "title": "Camera Shelf 1.70",
+        "message": "Version 1.70 is here! Check out What's New at the bottom of Settings to catch up on what we added."
+      },
+      "ja": {
+        "title": "Camera Shelf 1.70",
+        "message": "バージョン1.70が登場！設定画面下部の「What's New」から追加内容をご確認ください。"
+      }
+    }
+  },
+  {
+    "id": "sync-warning-01",
+    "isActive": true,
+    "type": "warning",
+    "url": "https://pandesalbytes.ca/support",
+    "translations": {
+      "en": {
+        "title": "iCloud Sync Notice",
+        "message": "We are currently experiencing delays with iCloud sync. Your data is safe locally and will sync once Apple resolves the outage."
+      },
+      "ja": {
+        "title": "iCloud同期に関するお知らせ",
+        "message": "現在、iCloudの同期に遅延が発生しています。データはローカルに安全に保存されており、Appleが障害を解決し次第、自動的に同期されます。"
+      }
+    }
+  }
+]
