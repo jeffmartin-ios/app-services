@@ -1,0 +1,20 @@
+[
+  {
+    "id": "simulated-film",
+    "name": "Simulated Film",
+    "urlString": "https://apps.apple.com/us/app/simulated-film-film-recipes/id6755539247",
+    "iconUrl": "https://pandesalbytes.ca/app-services/assets/simulated-film-icon.png"
+  },
+  {
+    "id": "camera-pouch",
+    "name": "Camera Pouch",
+    "urlString": "https://apps.apple.com/us/app/camera-pouch-photo-tools/id6754294154",
+    "iconUrl": "https://pandesalbytes.ca/app-services/assets/camera-pouch-icon.png"
+  },
+  {
+    "id": "slideshow-frames",
+    "name": "Slideshow Frames",
+    "urlString": "https://apps.apple.com/us/app/slideshow-frames/id6755850653",
+    "iconUrl": "https://pandesalbytes.ca/app-services/assets/slideshow-frames-icon.png"
+  }
+]
