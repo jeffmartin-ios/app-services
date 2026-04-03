@@ -1,5 +1,6 @@
 {
   "promo": true,
   "message": "Spring Promo! Unlock Pro permanently for 25% off.",
-  "percentage": 25
+  "percentage": 25,
+  "expiry-date": 2026-04-14
 }
