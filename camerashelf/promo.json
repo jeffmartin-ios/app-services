@@ -1,9 +1,9 @@
 {
   "promo": true,
-  "percentage": 25,
+  "percentage": 50,
   "expiry-date": "2026-04-14",
   "translations": {
-    "en": "Unlock all features forever for 25% off with our spring sale!",
-    "ja": "ホリデーセールで全機能を永久にロック解除しましょう！"
+    "en": "Unlock all features forever for 50% off with our spring sale!",
+    "ja": "春のセールで全機能を永久に50%オフ！"
   }
 }
