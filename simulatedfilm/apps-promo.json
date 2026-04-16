@@ -1,0 +1,20 @@
+[
+  {
+    "id": "camera-pouch",
+    "name": "Camera Pouch",
+    "urlString": "https://apps.apple.com/us/app/camera-pouch-photo-tools/id6754294154",
+    "iconUrl": "https://pandesalbytes.ca/app-services/assets/camera-pouch-icon.png"
+  },
+  {
+    "id": "camera-pouch",
+    "name": "Camera Shelf",
+    "urlString": "https://apps.apple.com/us/app/camera-shelf-gear-tracker/id6755641228",
+    "iconUrl": "https://pandesalbytes.ca/app-services/assets/camera-shelf-icon.png"
+  },
+  {
+    "id": "slideshow-frames",
+    "name": "Slideshow Frames",
+    "urlString": "https://apps.apple.com/us/app/slideshow-frames/id6755850653",
+    "iconUrl": "https://pandesalbytes.ca/app-services/assets/slideshow-frames-icon.png"
+  }
+]
