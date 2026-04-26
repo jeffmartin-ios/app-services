@@ -1,0 +1,9 @@
+{
+  "promo": true,
+  "percentage": 25,
+  "expiry-date": "2026-04-26",
+  "translations": {
+    "en": "One Day Sale! Unlock all features forever for 25% off!",
+    "ja": "25% OFFで全機能を永久アンロック"
+  }
+}
